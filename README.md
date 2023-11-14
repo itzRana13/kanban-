@@ -1,4 +1,4 @@
-# Build a Kanban Board: React, Typescript, Tailwind, Dnd-Kit
+# itzRana13.github.io/kanban-
 
 Hi everyone,
 
