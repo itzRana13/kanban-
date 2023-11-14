@@ -1,4 +1,4 @@
-# Build a drag and drop Kanban Board: React, Typescript, Tailwind, Dnd-Kit
+# Build a Kanban Board: React, Typescript, Tailwind, Dnd-Kit
 
 Hi everyone,
 
